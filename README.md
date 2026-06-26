@@ -453,9 +453,7 @@ Windows Event Logs forward `Account_Name` and `Creator_Process_Name` as separate
 - [THC-Hydra](https://github.com/vanhauser-thc/thc-hydra)
 - [Nmap Security Scanner](https://nmap.org/)
 
-## 👨‍💻 Author
-
-# Rajesh R
+# 𝖱 𝖠 𝖩 𝖤 𝖲 𝖧
 ![SOC Analyst](https://img.shields.io/badge/Role-Associate%20SOC%20Analyst-blue?style=for-the-badge&logo=checkpoint) ![Focus](https://img.shields.io/badge/Focus-Detection%20Engineering%20%26%20Blue%20Teaming-red?style=for-the-badge&logo=splunk)
 
 > **`SIEM Mechanics` • `Threat Behavior Analysis` • `Defensive Lab Architecture`**
@@ -463,7 +461,6 @@ Windows Event Logs forward `Account_Name` and `Creator_Process_Name` as separate
 > Passionate about building defensive security labs, analyzing threat behaviors, and engineering SIEM detection mechanics. Focused on practical, hands-on homelab builds to master enterprise-grade security tools.
 
 ---
-Passionate about building defensive security labs, analyzing threat behaviors, and engineering SIEM detection mechanics. Focused on practical, hands-on homelab builds to master enterprise-grade security tools.
 
 #### **Connect:**
 *   🔗 **LinkedIn:** [linkedin.com/in/rajesh105](https://www.linkedin.com/in/rajesh105)
