@@ -484,3 +484,9 @@ This lab was conducted entirely within an **isolated VirtualBox NAT Network** fo
 | SOC Homelab – Lateral Movement & Privilege Escalation | Threat simulation and lateral movement detection mechanics | [soc-homelab-lateral-movement](https://github.com/rajeshdone/soc-homelab-lateral-movement) |
 
 ---
+<div align="center">
+
+**⭐ Star this repo if it helped you learn something.**
+
+</div>
+
