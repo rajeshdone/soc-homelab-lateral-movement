@@ -457,8 +457,8 @@ Windows Event Logs forward `Account_Name` and `Creator_Process_Name` as separate
 
 ## Author
 
-### **Rajesh R**
-> *Aspiring Cybersecurity & Detection Engineer*
+# Rajesh R
+### Associate SOC Analyst | Detection Engineering & Blue Teaming
 
 Passionate about building defensive security labs, analyzing threat behaviors, and engineering SIEM detection mechanics. Focused on practical, hands-on homelab builds to master enterprise-grade security tools.
 
