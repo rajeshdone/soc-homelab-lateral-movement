@@ -453,10 +453,14 @@ Windows Event Logs forward `Account_Name` and `Creator_Process_Name` as separate
 - [THC-Hydra](https://github.com/vanhauser-thc/thc-hydra)
 - [Nmap Security Scanner](https://nmap.org/)
 
----
-## 👤 AUTHOR // RAJESH R
-### 🛠️ `Associate SOC Analyst | Detection Engineering & Blue Teaming`
-> **Mission:** Engineering enterprise-grade SIEM mechanics, mapping threat behaviors to MITRE ATT&CK, and constructing defensive security architectures.
+> ## **Rajesh R**
+> ### 🛡️ `Associate SOC Analyst` • **Blue Team Operations**
+> _Specializing in SIEM Detection Mechanics & Threat Simulation_
+>
+> ---
+> 
+> Passionate about building defensive security labs, analyzing threat behaviors, and engineering SIEM detection mechanics. Focused on practical, hands-on homelab builds to master enterprise-grade security tools.
+
 ---
 
 Passionate about building defensive security labs, analyzing threat behaviors, and engineering SIEM detection mechanics. Focused on practical, hands-on homelab builds to master enterprise-grade security tools.
